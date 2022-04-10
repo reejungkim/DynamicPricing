@@ -30,4 +30,5 @@ Algorithms calculate the loyalty level of each customer and set the price lower 
 - [Real Time Bidding](https://www.kaggle.com/datasets/saurav9786/real-time-advertisers-auction)
 - [Programmatic Ad Tech](https://medium.com/@greedy_game/ad-tech-simplified-what-is-programmatic-ad-tech-1d98a3e4d7c)
 
-
+- [Kaggle competition: Click-Through Rate Prediction](https://www.kaggle.com/competitions/avazu-ctr-prediction/overview)
+- [Kaggle: Real time Advertiser's Autction](https://www.kaggle.com/datasets/saurav9786/real-time-advertisers-auction)

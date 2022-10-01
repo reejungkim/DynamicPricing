@@ -7,6 +7,13 @@
 
 <b>Dynamic pricing can be used in various price setting methods.</b>
 
+What needs to be considered for choosing dynamic pricing algorithm.
+
+- Maximize the profit
+- Minimize customer churn
+- Attract competitors’ customers
+- Improve customers’ experience and maintain loyalty
+
 Three of the most common methods are cost-based, competitor-based, and demand-based.
 
 - Cost-based pricing “adjusts prices dynamically according to business costs and keeps profit margins on a certain level.”
@@ -21,8 +28,11 @@ Algorithms calculate the loyalty level of each customer and set the price lower 
 ## Reference
 
 - [ML based dynamic pricing](https://medium.com/total-data-science/how-machine-learning-is-helping-in-providing-dynamic-pricing-7efdb8af9083)
+<<<<<<< Updated upstream
 - [Real Time Bidding](https://www.kaggle.com/datasets/saurav9786/real-time-advertisers-auction)
 - [Programmatic Ad Tech](https://medium.com/@greedy_game/ad-tech-simplified-what-is-programmatic-ad-tech-1d98a3e4d7c)
 
 - [Kaggle competition: Click-Through Rate Prediction](https://www.kaggle.com/competitions/avazu-ctr-prediction/overview)
 - [Kaggle: Real time Advertiser's Autction](https://www.kaggle.com/datasets/saurav9786/real-time-advertisers-auction)
+=======
+>>>>>>> Stashed changes
